@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Nov 11 06:31:33 CST 2011
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=test.jar
+manifest.mergeall=true
+manifest.mainclass=lepujiu.individual.clients.testString
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

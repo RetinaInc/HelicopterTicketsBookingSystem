@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Nov 11 06:57:42 CST 2011
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=clientOfUpdateTimeTable.jar
+manifest.mergeall=true
+manifest.mainclass=lepujiu.individual.swing.clientOfUpdateTimeTable
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
